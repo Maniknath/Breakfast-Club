@@ -1,0 +1,6 @@
+C:\Users\manik\OneDrive\Desktop\C# .NET Class\VS Projects\Class Projects\Breakfast Club\bin\Debug\Breakfast Club.exe.config
+C:\Users\manik\OneDrive\Desktop\C# .NET Class\VS Projects\Class Projects\Breakfast Club\bin\Debug\Breakfast Club.exe
+C:\Users\manik\OneDrive\Desktop\C# .NET Class\VS Projects\Class Projects\Breakfast Club\bin\Debug\Breakfast Club.pdb
+C:\Users\manik\OneDrive\Desktop\C# .NET Class\VS Projects\Class Projects\Breakfast Club\obj\Debug\Breakfast Club.csprojAssemblyReference.cache
+C:\Users\manik\OneDrive\Desktop\C# .NET Class\VS Projects\Class Projects\Breakfast Club\obj\Debug\Breakfast Club.exe
+C:\Users\manik\OneDrive\Desktop\C# .NET Class\VS Projects\Class Projects\Breakfast Club\obj\Debug\Breakfast Club.pdb
